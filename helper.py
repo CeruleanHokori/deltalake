@@ -4,7 +4,7 @@ from datetime import datetime
 import sys
 import seaborn as sns
 import matplotlib.pyplot as plt
-import tqdm
+from tqdm import tqdm
 import numpy as np
 
 def get_id() -> int:
