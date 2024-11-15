@@ -1,6 +1,7 @@
 Questions
 =========
 
+![image](perf.png)
 Requirements: `pip install -r requirements.txt`
 
 1. Implémenter une méthode `rollback_version(self, version: int)` qui retourne la deltatable à la version souhaitée. Une méthode `get_versions()` donnant l'accès à l'objet stockant les versions sera nécessaire.
